@@ -1,7 +1,7 @@
 # Flappy Bird
-**my own first broke ass clone of flappy bird**
+**my first clone of flappy bird**
 
-## Download
+## Download (Only for Windows :p)
 **to download, just go to the releases tab to the right** 👉
 
 ## Controls
