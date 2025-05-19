@@ -1,9 +1,12 @@
 # Flappy Bird
-**my first clone of flappy bird**
+**clone of flappy bird, developed while learning unity gamedev for the first time.**
 
-## Download (Only for Windows :p)
+**lots of rough edges, lots of bugs, dont expect smooth gameplay**
+
+## Download (Only for Windows)
 **to download, just go to the releases tab to the right** 👉
 
 ## Controls
 **spacebar - flap**
-"what else were you expecting"
+
+*what else were you expecting*
